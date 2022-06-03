@@ -5,7 +5,6 @@
 - **소속** : <br>
   - 전공 : 빅데이터 <br>
   - 부전공 : 컨텐츠 IT <br>
-  - 교직 이수 중 <br>
 - **Email** : cksdl816@naver.com
 
 
